@@ -1,0 +1,7 @@
+theme: jekyll-theme-slate
+title: Smart Contract Vulnerability Detection
+description: Ethereum Smart Contracts Vulnerability Detection using Deep Neural Network and Transfer Learning
+markdown: kramdown
+repository: sss-wue/sss-wue.github.io 
+github:
+  is_project_page: false
